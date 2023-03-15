@@ -1,10 +1,10 @@
-Alterations of the gpstracker library, redesigned for TK311
+Alterations of the gpstracker library made by Raphael Fonseca, redesigned for TK311
 
 -   TK311
 
 # Install
 
-    npm install gpstracker
+    npm install tracker311
 
 # Usage
 
@@ -49,5 +49,4 @@ server.trackers.on("connected", (tracker) => {
 
 # Licence
 
-I don't even know if this is legal, if not just let me know. This code is MIT
-licensed.
+MIT
